@@ -1,3 +1,4 @@
+notes.txt
 
 read in 9 lines of 9 chars, numbers and dots 
 allocate an array 9x9 of complex objects 

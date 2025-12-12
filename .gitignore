@@ -1,3 +1,6 @@
 # ignore all emacs backup files whatever directory they're in
 **/*~
 
+# complied sbcl
+*.fasl
+
